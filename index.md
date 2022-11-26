@@ -2,8 +2,13 @@
 
 ### Syscall Tables
 
-* [KiServiceTables](https://hfiref0x.github.io/syscalls.html)
-* [W32pServiceTables](https://hfiref0x.github.io/w32ksyscalls.html)
+NT6 + (bonus NT 5.2)
+* [KiServiceTables](https://hfiref0x.github.io/NT6_syscalls.html)
+* [W32pServiceTables](https://hfiref0x.github.io/NT6_w32ksyscalls.html)
+
+NT10
+* [KiServiceTables](https://hfiref0x.github.io/NT10_syscalls.html)
+* [W32pServiceTables](https://hfiref0x.github.io/NT10_w32ksyscalls.html)
 
 ### Build on
 
