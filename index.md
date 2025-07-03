@@ -1,20 +1,44 @@
-## hfiref0x pages
+# hfiref0x Blog
 
-### Syscall Tables
+---
 
-x86-64 NT6 + (bonus NT 5.2)
-* [KiServiceTables](https://hfiref0x.github.io/X86_64/NT6_syscalls.html)
-* [W32pServiceTables](https://hfiref0x.github.io/X86_64/NT6_w32ksyscalls.html)
+### Syscall Table Reference
 
-x86-64 NT10
-* [KiServiceTables](https://hfiref0x.github.io/X86_64/NT10_syscalls.html)
-* [W32pServiceTables](https://hfiref0x.github.io/X86_64/NT10_w32ksyscalls.html)
-* [IUM](https://hfiref0x.github.io/X86_64/NT10_iumsyscalls.html)
+Explore comprehensive syscall tables for various Windows architectures and versions. Each table includes detailed information, perfect for researchers, reverse engineers, and developers.
 
-ARM64
-* [KiServiceTables](https://hfiref0x.github.io/ARM64/syscalls.html)
-* [W32pServiceTables](https://hfiref0x.github.io/ARM64/w32ksyscalls.html)
+#### x86-64 NT6+ (includes NT 5.2 bonus)
 
-### Build on
+- [KiServiceTables](https://hfiref0x.github.io/X86_64/NT6_syscalls.html)  
+  Core NT kernel system calls.
+- [W32pServiceTables](https://hfiref0x.github.io/X86_64/NT6_w32ksyscalls.html)  
+  Windows GUI subsystem calls.
 
-[SyscallTables](https://github.com/hfiref0x/SyscallTables)
+#### x86-64 NT10
+
+- [KiServiceTables](https://hfiref0x.github.io/X86_64/NT10_syscalls.html)
+- [W32pServiceTables](https://hfiref0x.github.io/X86_64/NT10_w32ksyscalls.html)
+- [IUM](https://hfiref0x.github.io/X86_64/NT10_iumsyscalls.html)  
+  Isolated User Mode syscall table (for virtualization and security contexts).
+
+#### ARM64
+
+- [KiServiceTables](https://hfiref0x.github.io/ARM64/syscalls.html)
+- [W32pServiceTables](https://hfiref0x.github.io/ARM64/w32ksyscalls.html)
+
+---
+
+## Related Project
+
+- [SyscallTables on GitHub](https://github.com/hfiref0x/SyscallTables)  
+  Source code and tools for extracting and analyzing Windows syscall tables.
+
+---
+
+## About
+
+This site is maintained by **hfiref0x**.  
+For updates and new research, check back regularly or follow my [GitHub profile](https://github.com/hfiref0x).
+
+---
+
+> All resources are provided for educational and research purposes.
