@@ -27,6 +27,17 @@ Explore comprehensive syscall tables for various Windows architectures and versi
 
 ---
 
+## Blog Posts
+
+[Making ReactOS Great Again: Interlude (2025)](https://github.com/hfiref0x/hfiref0x.github.io/blob/master/blog/articles/ReactOS_Interlude_2025.md)
+
+<!--
+Example format for future posts:
+- [Post Title](link) - Short description (YYYY-MM-DD)
+-->
+
+---
+
 ## Related Project
 
 - [SyscallTables on GitHub](https://github.com/hfiref0x/SyscallTables)  
