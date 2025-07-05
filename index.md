@@ -29,7 +29,7 @@ Explore comprehensive syscall tables for various Windows architectures and versi
 
 ## Related Project
 
-- [sctables on GitHub](https://github.com/hfiref0x/SyscallTables)  
+- [SyscallTables on GitHub](https://github.com/hfiref0x/SyscallTables)  
   Source code and tools for extracting and analyzing Windows syscall tables.
 
 ---
