@@ -15,12 +15,15 @@ Explore comprehensive syscall tables for various Windows architectures and versi
 
 #### x86-64 NT10
 
+#### Windows 10
 - [KiServiceTables](https://hfiref0x.github.io/sctables/X86_64/NT10_syscalls.html)
 - [W32pServiceTables](https://hfiref0x.github.io/sctables/X86_64/NT10_w32ksyscalls.html)
-- [KiServiceTables Windows 11](https://hfiref0x.github.io/sctables/X86_64/W11_syscalls.html)
-- [W32pServiceTables Windows 11](https://hfiref0x.github.io/sctables/X86_64/W11_w32ksyscalls.html)
 - [IUM](https://hfiref0x.github.io/sctables/X86_64/NT10_iumsyscalls.html)  
   Isolated User Mode syscall table.
+
+#### Windows 11
+- [KiServiceTables Windows 11](https://hfiref0x.github.io/sctables/X86_64/W11_syscalls.html)
+- [W32pServiceTables Windows 11](https://hfiref0x.github.io/sctables/X86_64/W11_w32ksyscalls.html)
 
 #### ARM64
 
